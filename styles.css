@@ -123,19 +123,32 @@ max-width: 10vw;
 }
 
 .mc4{
+display: flex;
+background-color: #E5E7EB;
+align-items: center;
+justify-content: center;
 
 }
 
 .sc4{
-
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+padding-top: 7.5%;
+padding-bottom: 7.5%;
+padding-left: 15%;
+padding-right: 15%;
 }
 
 .sc4q{
-
+font-size: 36px;
+font-style: italic;
+color:#1F2937
 }
 
 .sc4p{
-
+align-self: flex-end;
 }
 
 .mc5{
