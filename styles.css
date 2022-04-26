@@ -1,3 +1,122 @@
-div{
+body{
+    display: flex;
+    flex-direction: column
     
 }
+.mc1{
+display: flex;
+padding-left: 5em;
+padding-right: 5em;
+background-color: #1F2937;
+color: white;
+
+}
+.hlogo{
+margin-right: auto;
+}
+
+.hlinks{
+
+}
+
+a {
+    color:white;
+    text-decoration: none;
+}
+
+.mc2{
+
+}
+
+.sc1{
+
+}
+
+.sc1h{
+
+}
+
+.sc1c{
+
+}
+
+.sc1btn{
+
+}
+
+.sc2{
+
+}
+
+.mc3{
+
+}
+
+.sc3{
+
+}
+
+.sc3c1{
+
+}
+
+.sc3c2{
+    
+}
+.sc3c3{
+    
+}
+.sc3c4{
+    
+}
+.img{
+
+}
+.txt{
+
+}
+
+.mc4{
+
+}
+
+.sc4{
+
+}
+
+.sc4q{
+
+}
+
+.sc4p{
+
+}
+
+.mc5{
+
+}
+
+.sc5{
+
+}
+
+.sc6{
+
+}
+
+.sc6h{
+
+}
+
+.sc6t{
+
+}
+
+.sc7{
+
+}
+
+.mc6{
+
+}
+
