@@ -7,16 +7,23 @@ body{
 display: flex;
 padding-left: 5em;
 padding-right: 5em;
+padding-top: 1EM;
 background-color: #1F2937;
-color: white;
+color: #F9FAF8;
+justify-content: space-between;
+align-items: baseline;
+gap: 1em;
+flex-wrap: nowrap;
 
 }
 .hlogo{
 margin-right: auto;
+font-weight: 700;
+font-size: 24PX;
 }
 
 .hlinks{
-
+    font-size: 14PX;
 }
 
 a {
@@ -25,26 +32,43 @@ a {
 }
 
 .mc2{
-
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5em;
 }
 
 .sc1{
-
+max-width: 40%;
+text-align: start;
 }
 
 .sc1h{
-
+font-size: 48px;
+font-weight: 900;
+color: #F9FAF8
 }
 
 .sc1c{
-
+font-size: 18px;
+color: #E5E7EB;
 }
 
 .sc1btn{
-
+background-color: blue;
+color: white;
+padding-top: .5em;
+padding-bottom: .5em;
+padding-left: 3em;
+padding-right: 3em;
+border-radius: 8px;
 }
 
 .sc2{
+display: flex;
+max-height: auto;
+max-width:45%
 
 }
 
