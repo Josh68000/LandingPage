@@ -149,22 +149,34 @@ color:#1F2937
 
 .sc4p{
 align-self: flex-end;
+
 }
 
 .mc5{
+display:flex;
+align-items: center;
+justify-content: center;
+margin: 5em;
 
 }
 
 .sc5{
-
+    background-color: #3882F6;
+    color:#E5E7EB;
+    border-radius: 8px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5em;
+    gap: 1em; 
 }
 
 .sc6{
-
+max-width: 70%;
 }
 
 .sc6h{
-
+font-weight: 700;
 }
 
 .sc6t{
@@ -172,7 +184,10 @@ align-self: flex-end;
 }
 
 .sc7{
-
+background-color: #3882F6;
+color: #E5E7EB;
+border-color: #E5E7EB;
+border-radius: 8px;
 }
 
 .mc6{
