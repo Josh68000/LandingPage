@@ -137,8 +137,8 @@ align-items: center;
 flex-direction: column;
 padding-top: 7.5%;
 padding-bottom: 7.5%;
-padding-left: 15%;
-padding-right: 15%;
+padding-left: 10%;
+padding-right: 10%;
 }
 
 .sc4q{
@@ -176,6 +176,12 @@ align-self: flex-end;
 }
 
 .mc6{
-
-}
+    display: flex;
+    padding: 1em;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+   }
 
